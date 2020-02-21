@@ -40,7 +40,7 @@ public struct SamplesExtractor {
         AVLinearPCMIsNonInterleaved: false
     ]
 
-    public static var noiseFloor: Float = -40.0 // everything below -X dB will be clipped
+    public static var noiseFloor: Float = -30.0 // everything below -X dB will be clipped
 
 
     /// Samples a sound track
