@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SoundWaveForm'
-  s.version          = '0.1.0'
+  s.version          = '0.2.0'
   s.summary          = 'A short description of SoundWaveFormPod.'
   s.swift_version    = '4.2'
 # This description is used to generate tags and improve search results.
@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 A short description of SoundWaveFormPod.
                        DESC
 
-  s.homepage         = 'https://github.com/j620178@gmail.com/SoundWaveForm'
+  s.homepage         = 'https://github.com/littlema0404/SoundWaveForm'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = 'proprietary'
   s.author           = { 'j620178@gmail.com' => 'j620178@gmail.com' }
-  s.source           = { :git => 'https://github.com/j620178@gmail.com/SoundWaveForm.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/littlema0404/SoundWaveForm.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '11.0'
